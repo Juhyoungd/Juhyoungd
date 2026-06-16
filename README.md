@@ -2,10 +2,6 @@
 
 # Welcome to Juhyoung's Github! 👋
 
-<br>
-
-<a href="mailto:jhapoy106@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-
 <br><br>
 
 안녕하세요.<br>
@@ -17,6 +13,8 @@
 <br>
 
 ### 💻 Tech Stacks
+
+<br>
 
 **Frontend**
 <br>
@@ -37,11 +35,6 @@
 
 <br>
 
-
-### 📜 Certificates & Education
-
-* 2026.02 컴퓨터공학과 졸업
-  
 ### 📊 GitHub Stats
 
 <div align="center">
