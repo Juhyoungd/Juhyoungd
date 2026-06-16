@@ -46,7 +46,7 @@
 
 <div align="center">
   <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhyoungd&layout=compact&theme=dark" alt="Top Languages" />
-  <br><br>
+  
   <img src="https://github-readme-stats.vercel.app/api?username=Juhyoungd&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
