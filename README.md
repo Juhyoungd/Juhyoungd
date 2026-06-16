@@ -4,9 +4,7 @@
 
 <br>
 
-<a href="mailto:본인이메일@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
-<a href="본인블로그주소입력"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=velog&logoColor=white"/></a>
-<a href="본인인스타주소입력"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+<a href="mailto:jhapoy106@naver.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
 
 <br><br>
 
@@ -39,6 +37,11 @@
 
 <br>
 
+
+### 📜 Certificates & Education
+
+* 2026.02 컴퓨터공학과 졸업
+  
 ### 📊 GitHub Stats
 
 <div align="center">
@@ -47,7 +50,3 @@
   <img src="https://github-readme-stats.vercel.app/api?username=Juhyoungd&show_icons=true&theme=dark" alt="GitHub Stats" />
 </div>
 
-
-### 📜 Certificates & Education
-
-* 2026.02 컴퓨터공학과 졸업
