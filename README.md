@@ -32,21 +32,6 @@
 
 </div>
 
-<br>
-
-## 🚀 Projects
-
-### [NEXTSTEP](https://github.com/kt-triple-core/NEXTSTEP_KT_2025)
-개발자를 위한 AI 기반 기술 추천 & 트렌드 분석 플랫폼 (팀 프로젝트)
-
-`Next.js` `TypeScript` `React Query` `Supabase` `FSD Architecture`
-
-- 커뮤니티 페이지: 게시글/댓글 CRUD 구현
-- 회원 페이지: 프로필 · 포인트 · 퀘스트 · 상점 기능 구현
-- 관리자용 API 설계 및 구현
-
-<br>
-
 ## 📊 GitHub Stats
 
 <div align="center">
