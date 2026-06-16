@@ -1,35 +1,53 @@
- <div class="header">
-      <img src="https://capsule-render.vercel.app/api?type=transparent&fontColor=F5C0CA&text=Juhyoung's%20GitHub%20&height=150&fontSize=60&descAlignY=75&descAlign=60" alt="Juhyoung's GitHub">
-    </div>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 🧑‍💻 Contact me 🧑‍💻 </h2>
-    <div align= "center"> <a href=https://티 스 토 리 주 소> <img src="https://img.shields.io/badge/Tistory-000000?style=for-the-badge&logo=Tistory&logoColor=white&link=https://티 스 토 리 주 소"> </a>
-         <a href=노 션 아 이 디> <img src="https://img.shields.io/badge/Notion-000000?style=for-the-badge&logo=Notion&logoColor=white&link= 메 일 주 소"> </a>
-         <a href=https://www.instagram.com/인스타그램 아이디> <img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=Instagram&logoColor=white&link=https://www.instagram.com/인 스 타 아 이 디"> </a>
-         <a href=mailto:메 일 주 소> <img src="https://img.shields.io/badge/Gmail-EA4335?style=for-the-badge&logo=Gmail&logoColor=white&link=mailto:메 일 주 소"> </a>
-          </div><br>
-    <div align= "center">  </div> 
-    <h2 align="center">📧 Email 📧</h2>
-<p align="center">
-  <Strong> jhapoy106@naver.com </Strong>
-</p><br>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> ✨ Tech Stack ✨ </h2>
-    <div style="margin: 0 auto; text-align: center;" align= "center"> <img src="https://img.shields.io/badge/Python-3776AB?style=for-the-badge&logo=Python&logoColor=white">
-          <img src="https://img.shields.io/badge/Flask-000000?style=for-the-badge&logo=Flask&logoColor=white">
-          <img src="https://img.shields.io/badge/MySQL-4479A1?style=for-the-badge&logo=MySQL&logoColor=white">
-          <img src="https://img.shields.io/badge/C-A8B9CC?style=for-the-badge&logo=C&logoColor=white">
-          <img src="https://img.shields.io/badge/Amazon AWS-232F3E?style=for-the-badge&logo=Amazon AWS&logoColor=white">
-          <br/><img src="https://img.shields.io/badge/Java-007396?style=for-the-badge&logo=Java&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring-6DB33F?style=for-the-badge&logo=Spring&logoColor=white">
-          <img src="https://img.shields.io/badge/Spring Boot-6DB33F?style=for-the-badge&logo=Spring Boot&logoColor=white">
-          <img src="https://img.shields.io/badge/Git-F05032?style=for-the-badge&logo=Git&logoColor=white">
-          <img src="https://img.shields.io/badge/Github-181717?style=for-the-badge&logo=Github&logoColor=white">
-          </div>
-    </div><br>
-<div align= "center">
-    <h2 style="border-bottom: 1px solid #d8dee4; color: #282d33;"> 📋 Stat 📋 </h2>
-    
-![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Juhyoungd&show_icons=true&theme=radical)    
+<div align="center">
+
+# Welcome to Juhyoung's Github! 👋
 
 <br>
+
+<a href="mailto:본인이메일@gmail.com"><img src="https://img.shields.io/badge/Email-EA4335?style=flat-square&logo=gmail&logoColor=white"/></a>
+<a href="본인블로그주소입력"><img src="https://img.shields.io/badge/Tech_Blog-000000?style=flat-square&logo=velog&logoColor=white"/></a>
+<a href="본인인스타주소입력"><img src="https://img.shields.io/badge/Instagram-E4405F?style=flat-square&logo=instagram&logoColor=white"/></a>
+
+<br><br>
+
+안녕하세요.<br>
+사용자 경험을 최우선으로 생각하며 끊임없이 성장하는<br>
+**신입 프론트엔드 개발자**입니다. 🚀
+
+</div>
+
+<br>
+
+### 💻 Tech Stacks
+
+**Frontend**
+<br>
+![HTML5](https://img.shields.io/badge/HTML5-E34F26?style=flat-square&logo=html5&logoColor=white)
+![CSS3](https://img.shields.io/badge/CSS3-1572B6?style=flat-square&logo=css3&logoColor=white)
+![JavaScript](https://img.shields.io/badge/JavaScript-F7DF1E?style=flat-square&logo=javascript&logoColor=black)
+![TypeScript](https://img.shields.io/badge/TypeScript-3178C6?style=flat-square&logo=typescript&logoColor=white)
+![React](https://img.shields.io/badge/React-61DAFB?style=flat-square&logo=react&logoColor=black)
+![Next.js](https://img.shields.io/badge/Next.js-000000?style=flat-square&logo=nextdotjs&logoColor=white)
+![Tailwind CSS](https://img.shields.io/badge/Tailwind_CSS-06B6D4?style=flat-square&logo=tailwindcss&logoColor=white)
+
+**Tools & Collaboration**
+<br>
+![Git](https://img.shields.io/badge/Git-F05032?style=flat-square&logo=git&logoColor=white)
+![GitHub](https://img.shields.io/badge/GitHub-181717?style=flat-square&logo=github&logoColor=white)
+![Figma](https://img.shields.io/badge/Figma-F24E1E?style=flat-square&logo=figma&logoColor=white)
+![Notion](https://img.shields.io/badge/Notion-000000?style=flat-square&logo=notion&logoColor=white)
+
+<br>
+
+### 📊 GitHub Stats
+
+<div align="center">
+  <img src="https://github-readme-stats.vercel.app/api/top-langs/?username=Juhyoungd&layout=compact&theme=dark" alt="Top Languages" />
+  <br><br>
+  <img src="https://github-readme-stats.vercel.app/api?username=Juhyoungd&show_icons=true&theme=dark" alt="GitHub Stats" />
+</div>
+
+
+### 📜 Certificates & Education
+
+* 2026.02 컴퓨터공학과 졸업
